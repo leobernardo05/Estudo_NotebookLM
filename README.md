@@ -20,7 +20,6 @@ https://notebooklm.google.com/notebook/a52ee6f4-0d64-4e23-84c5-16576be6fca3
 
 Este repositório contém:
 
-- 📓 Anotações e estudos sobre IA Generativa  
 - 🧠 Exemplos e testes de *prompt engineering*  
 - 🧪 Experimentos e análises de resultados  
 - 🗂️ Organização de conhecimento no NotebookLM  
@@ -39,37 +38,3 @@ O **NotebookLM** é uma ferramenta do Google voltada para organização de conhe
 
 Neste projeto, o NotebookLM é usado como base para estudo prático e teórico em IA Generativa.
 
----
-
-## 🚀 Como acessar o projeto
-
-1. Acesse o link do notebook:  
-   👉 https://notebooklm.google.com/notebook/a52ee6f4-0d64-4e23-84c5-16576be6fca3
-
-2. Navegue pelas seções organizadas por tema  
-3. Explore os prompts, exemplos e anotações  
-4. Duplique o notebook, se desejar, para estudos próprios  
-
----
-
-## 💡 Dicas de estudo
-
-- Comece pelos conceitos introdutórios  
-- Teste variações de prompts e compare resultados  
-- Documente hipóteses e aprendizados  
-- Refaça experimentos para consolidar o entendimento  
-
----
-
-## 🧠 Próximos passos
-
-- Integração com APIs de LLM  
-- Comparação entre diferentes modelos  
-- Exemplos práticos aplicados a problemas reais  
-- Exportação dos estudos em Markdown  
-
----
-
-## 📜 Licença
-
-Este projeto está
